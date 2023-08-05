@@ -4,7 +4,7 @@ from config import*
 #kfewofwkfewo
 p.init()
 
-
+#fewfewfeefewfewfewf
 
 
 while True:
