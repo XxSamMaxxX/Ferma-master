@@ -1,7 +1,7 @@
 import pygame as p
 import sys
 from config import*
-
+#kfewofwkfewo
 p.init()
 
 
