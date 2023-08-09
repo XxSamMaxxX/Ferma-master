@@ -5,7 +5,7 @@ from config import*
 p.init()
 
 
-#osdkgerkgerokgerokgeroelll
+#osdkgerkgerokgerokgeroelllfwqfwqfqwfqwfqw
 
 while True:
     screen.fill(WHITE)
